@@ -1,3 +1,4 @@
+;;;; this is part of vector-update-stream.  see vector-update-stream.asd for license info
 ;;;; package.lisp
 
 (defpackage :vector-update-stream
